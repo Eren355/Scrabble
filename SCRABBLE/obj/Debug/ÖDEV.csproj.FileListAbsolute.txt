@@ -1,0 +1,8 @@
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\bin\Debug\ÖDEV.exe.config
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\bin\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\bin\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\obj\Debug\ÖDEV.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\obj\Debug\ÖDEV.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\obj\Debug\ÖDEV.exe
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\obj\Debug\ÖDEV.pdb
+C:\Users\ASUS\Desktop\DERS\1.SINIF\PROGRAMLAMA 2\ÇALIŞMA\ÖDEV\obj\Debug\ÖDEV.exe.config
